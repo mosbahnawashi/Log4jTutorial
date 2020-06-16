@@ -1,0 +1,7 @@
+03:23:42.057 [main] FATAL alpha.Demo1 - Button is missing. Fatal message
+03:23:43.015 [main] DEBUG alpha.Demo1 - I have clicked on button. Debug message
+03:23:43.017 [main] ERROR alpha.Demo1 - Button is NOT displayed. Error message
+03:23:43.017 [main] INFO  alpha.Demo1 - Button is displayed. Info message
+03:23:43.018 [main] FATAL alpha.Demo1 - Button is missing. Fatal message
+03:23:55.613 [main] ERROR beta.Demo2 - Button is NOT displayed. Error message
+03:23:55.616 [main] FATAL beta.Demo2 - Button is missing. Fatal message
